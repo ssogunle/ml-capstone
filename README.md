@@ -12,5 +12,4 @@ algorithms. These
 are Gaussian Mixture Model (GMM) clustering algorithm and Artificial
 Neural Networks (ANN) respectively. First, the GMM clustering algorithm
 generates labels for the dataset’s customer groups. Thereafter, an ANN
-trains the final model, which will be capable of making predictions on
-unseen data.
+trains the final model, which can make predictions on unseen data.
